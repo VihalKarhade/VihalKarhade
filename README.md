@@ -5,7 +5,7 @@
 ###
 
 <h1 align="center">Hi 👋! I'm Vihal Vijay Karhade.</h1>
-<h2>A Passionate Engineer from India.</h2>
+<h2 align="center">A Passionate Engineer from India.</h2>
 
 ###
 
