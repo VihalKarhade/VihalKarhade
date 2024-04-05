@@ -1,8 +1,10 @@
-<h2 align="center">Hi 👋! I'm Vihal Vijay Karhade.</h2>
+<div align="center">
+  <img height="150" src="https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/05/github-tricks-hero.jpg"  />
+</div>
 
 ###
 
-<img align="right" height="150" src="https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/05/github-tricks-hero.jpg"  />
+<h2 align="center">Hi 👋! I'm Vihal Vijay Karhade.</h2>
 
 ###
 
