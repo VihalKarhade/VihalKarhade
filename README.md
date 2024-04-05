@@ -5,9 +5,11 @@
 ###
 
 <h1 align="center">Hi 👋! I'm Vihal Vijay Karhade.</h1>
+<h2>A Passionate Engineer from India.</h2>
 
 ###
 
+<h3>Tech Stack </h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
   <img width="12" />
