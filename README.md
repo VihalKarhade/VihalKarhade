@@ -3,10 +3,11 @@
 </div>
 
 ###
-  [![](https://visitcount.itsvg.in/api?id=vihalkarhade&icon=0&color=0)](https://visitcount.itsvg.in)
+
 <h1 align="center">Hi 👋! I'm Vihal Vijay Karhade.</h1>
 <h2 align="center">A Passionate Engineer from India.</h2>
 
+  [![](https://visitcount.itsvg.in/api?id=vihalkarhade&icon=0&color=0)](https://visitcount.itsvg.in)
 ###
 
 <h3>🧑‍💻Tech Stack </h3>
