@@ -1,12 +1,9 @@
-<div align="center">
-
-    [![](https://visitcount.itsvg.in/api?id=vihalkarhade&icon=0&color=0)](https://visitcount.itsvg.in)
-  
+<div align="center">  
   <img height="180" weidth="100" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif"  />
 </div>
 
 ###
-
+  [![](https://visitcount.itsvg.in/api?id=vihalkarhade&icon=0&color=0)](https://visitcount.itsvg.in)
 <h1 align="center">Hi 👋! I'm Vihal Vijay Karhade.</h1>
 <h2 align="center">A Passionate Engineer from India.</h2>
 
