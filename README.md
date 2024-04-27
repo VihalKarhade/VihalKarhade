@@ -25,7 +25,7 @@
 
 ###
 
-<h3>🧑‍💻Tech Stack </h3>
+<h3>🧑‍💻Language and Tools </h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
   <img width="12" />
@@ -62,13 +62,16 @@
 ###
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=vihalkarhade&theme=onedark&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+<!--   <img src="https://github-profile-trophy.vercel.app?username=vihalkarhade&theme=onedark&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  /> -->
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=vihalkarhade&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  /> -->
   
-  ![](https://github-readme-stats.vercel.app/api?username=vihalkarhade&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+  ![](https://github-readme-stats.vercel.app/api?username=vihalkarhade&theme=bright&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vihalkarhade&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=vihalkarhade&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vihalkarhade&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=bright&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=vihalkarhade&locale=en&mode=daily&theme=bright&hide_border=false&border_radius=5" height="150" alt="streak graph"  /> 
+
+
+
 
 </div>
 
