@@ -7,7 +7,22 @@
 <h1 align="center">Hi 👋! I'm Vihal Vijay Karhade.</h1>
 <h2 align="center">A Passionate Engineer from India.</h2>
 
-[![](https://visitcount.itsvg.in/api?id=vihalkarhade&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vihalkarhade&label=Profile%20views&color=0e75b6&style=flat" alt="vihalkarhade" /> </p>
+
+### 
+
+- 📫 How to reach me **vihalvkarhade18@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/https://twitter.com/karhadevihal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/karhadevihal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/vihal-k-865596220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vihal-k-865596220" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/vihalkarhade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/vihalkarhade" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/vihalvkarhade18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/vihalvkarhade18" height="30" width="40" /></a>
+</p>
+
+
 ###
 
 <h3>🧑‍💻Tech Stack </h3>
@@ -44,16 +59,6 @@
 </div>
 
 ###
-
-- 📫 How to reach me **vihalvkarhade18@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/https://twitter.com/karhadevihal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/karhadevihal" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vihal-k-865596220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vihal-k-865596220" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/vihalkarhade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/vihalkarhade" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/vihalvkarhade18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/vihalvkarhade18" height="30" width="40" /></a>
-</p>
 ###
 
 <div align="center">
