@@ -1,16 +1,18 @@
-<div align="center">  
-  <img height="180" weidth="100" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif"  />
-</div>
-
-###
 
 <h1 align="center">Hi 👋! I'm Vihal Vijay Karhade.</h1>
-<h2 align="center">A Passionate Engineer from India.</h2>
+<h2 align="center">A Passionate Aspiring Engineer from India.</h2>
+
+
+<div align="center">  
+  <img height="250" weidth="150" src="https://tse4.mm.bing.net/th?id=OIG3._o3Ey6E518NjrkMbmJsU&pid=ImgGn"  />
+
+
+</div>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vihalkarhade&label=Profile%20views&color=0e75b6&style=flat" alt="vihalkarhade" /> </p>
 
-### 
+###
 
 - 📫 How to reach me **vihalvkarhade18@gmail.com**
 
@@ -57,6 +59,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="opencv logo"  />
 </div>
+
+
+
+
 
 ###
 ###
